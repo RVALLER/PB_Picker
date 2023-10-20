@@ -1,7 +1,7 @@
 Read Me:
 
 
-Download PpwerBall Sim Dist. Folder under the repo files
+Download PowerBall Sim Dist. Folder under the repo files
 Extract To Dst Folder ->
 Run EXE by clicked the PowerBall_Sim executable
 
