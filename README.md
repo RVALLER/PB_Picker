@@ -15,7 +15,8 @@ Buttons:
 	Populate Winners - Will make a popup window creating mock powerball winning
 			   numbers to aid in the immersivness of simulation / picking
 
-	Clear Canvas -     Will wipe the canvas of existing powerball tokens allowing 			   for more concise simulations
+	Clear Canvas -     Will wipe the canvas of existing powerball tokens allowing 			   
+ 			   for more concise simulations
 
 	Add Single Ball -  Will allow for user to generate one powerball number
 			   either white or red, if only one number needed or
