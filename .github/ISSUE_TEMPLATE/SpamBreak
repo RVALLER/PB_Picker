@@ -1,0 +1,20 @@
+A bug occurs when spamming the generate winning numbers button
+
+How to Dupe:
+
+i. Launch Program
+ii. Spam Generate Winning Numbers
+iii. Chaos
+iv. 'None' appears frquently in subsequent winning # generations
+
+
+Theories: List generation for 'used numbers' gets broken at spam
+          alternatively, it sees future generations as same entity as prior ones and does not allow
+          for 'repeat' numbers
+
+Desired Behavior: Clicking simulations as much as possible SHOULD result separate functional simulations
+
+Solution in meantime: Relaunch program
+
+Proposed Fix: Deal with the simulation of launching by allowing repeat in separate simulations.
+  Approach to fix: Unsure at current time.
